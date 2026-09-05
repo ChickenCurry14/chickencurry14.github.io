@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: MeshLabs # the website title (if blank, full name will be used instead)
+title: "Mesh Labs" # the website title (if blank, full name will be used instead)
 first_name: Alan
 middle_name: 
 last_name: Umesh
@@ -51,7 +51,7 @@ repo_trophies:
 # To use a different instance or service for displaying GitHub stats and trophies,
 # update these URLs. These are used in the repository templates.
 external_services:
-  github_readme_stats_url: [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=chickencurry14)](https://github.com/stats-organization/github-stats-extended)
+  github_readme_stats_url: "[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=chickencurry14)](https://github.com/stats-organization/github-stats-extended)"
   github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
 # -----------------------------------------------------------------------------
